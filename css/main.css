@@ -1,0 +1,37 @@
+.header-login {
+  width: 100%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+}
+
+.centered {
+  position: fixed;
+  top: 35%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+.jumbotron{
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#formulario {
+	margin-top: 20px;
+}
+
+button{
+	margin-top: 20px;
+	width: 15%;
+	margin-right: 100px;
+}
+
+input{
+	width:230px;
+}
